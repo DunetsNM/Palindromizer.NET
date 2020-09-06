@@ -2,7 +2,7 @@
 
 A simple tool to assist you in composing your own palindromes. Developed in 2005
 
-**Disclaimer**: Palindromizer.NET doesn't generate palindromes on its own, it only helps you to edit either halve of a palindrome, keep them in sync and preview the final result. However I still found that incredibly helpful. 
+**Disclaimer**: Palindromizer.NET doesn't generate palindromes on its own, it only helps you to edit either half of a palindrome, keep them in sync and preview the final result. However I still found that incredibly helpful. 
 
 ## Prerequisities
 
